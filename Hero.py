@@ -58,7 +58,7 @@ logo = """
 \033[1;94m    OWNER:SALMAN KHAN AFRIDI
 \033[1;95m      AFRIDYAAN 00505 GANG
 \033[1;93m     WELCOME TO MY DARBAAR
-\033[1;96m       ♡FB ID محمد امتیاز♡ 
+\033[1;96m       ♡FB ID Muhammad Imtyaz♡ 
 \033[1;91m======================================="""
 
 def tik():
@@ -82,7 +82,7 @@ print  """\033[1;91m=====================================
 \033[1;94m    OWNER:SALMAN KHAN AFRIDI
 \033[1;95m      AFRIDYAAN 00506 GANG
 \033[1;93m     WELCOME  TO MY DARBAAR
-\033[1;96m        ♡FB ID محمد امتیاز♡ 
+\033[1;96m        ♡FB ID Muhammad Imtyaz♡ 
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
